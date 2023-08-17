@@ -6,7 +6,7 @@ Multitools V2 and V3 Tools to faster collect Wrecks, furniture, and build faster
 
 To install a plugin, put it in a folder:
 
-...\Steam\steamapps\common\Subnautica1\BepInEx\plugins\
+...\Steam\steamapps\common\Subnautica\BepInEx\plugins\
 
 if you do not have Bepinex in your game you will need to:
 
